@@ -1,22 +1,7 @@
 # TP43
+![image](https://github.com/facupepi/TP43/assets/109759897/c074d1d2-8145-4bb5-be2e-1a066d25aa42)
 
-## Definición de Clases
-
-Se deben definir las siguientes clases:
-
-### `Pelicula`
-
-- Método `__init__`: Recibe el título de la película y un estado inicial (por defecto, "No alquilada").
-- Método `__str__`: Devuelve una representación en cadena de la película.
-
-### `Socio`
-
-- Método `__init__`: Recibe el nombre del socio.
-- Método `__str__`: Devuelve una representación en cadena del socio.
-
-## Acciones a Realizar
-
-En el programa principal (`main`), se deben realizar las siguientes acciones:
+## Según el diagrama UML anterior, definir las clases, sus métodos toString y crear main que:
 
 a. Instanciar dos socios.
 b. Crear un método para enlistar las películas.
@@ -29,6 +14,4 @@ h. Mostrar las películas disponibles para alquilar.
 
 ## Nota
 
-Se deberá mostrar los datos principales de los objetos a medida que sean creados utilizando el método `__str__`.
-
-![image](https://github.com/facupepi/TP43/assets/109759897/c074d1d2-8145-4bb5-be2e-1a066d25aa42)
+Se deberá mostrar los datos principales de los objetos a medida que sean creados.
